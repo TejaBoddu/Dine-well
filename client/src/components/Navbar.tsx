@@ -44,7 +44,8 @@ export default function Navbar() {
                 {/* Logo */}
                 <div className="flex items-center gap-12">
                     <Link to="/">
-                        <img src="/logo.svg" alt="Logo" className={`h-8.5 ${scrolled || (location.pathname === "/" && "invert")}`} />
+                        {/* <img src="/logo.svg" alt="Logo" className={`h-8.5 ${scrolled || (location.pathname === "/" && "invert")}`} /> */}
+                        <a href="" className="text-xl">DineWell</a>
                     </Link>
 
                     {/* Desktop Navigation Links */}
