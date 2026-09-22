@@ -33,7 +33,7 @@ Ensure you have **Node.js** (v18 or higher) and **npm** installed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dinewell-frontend.git
+   git clone https://github.com/TejaBoddu/Dine-well.git
    cd dinewell-frontend
    ```
 
