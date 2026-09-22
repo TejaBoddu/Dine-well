@@ -8,7 +8,8 @@ export default function Footer() {
                 {/* Brand */}
                 <div className="md:col-span-1">
                     <Link to="/" className="text-primary block mb-2">
-                        <img src="/logo.svg" alt="Logo" className="h-10 mt-1.5" />
+                        {/* <img src="/logo.svg" alt="Logo" className="h-10 mt-1.5" /> */}
+                        <a href="">DineWell</a>
                     </Link>
 
                     <p className="text-black/55 text-sm leading-relaxed pr-4">
